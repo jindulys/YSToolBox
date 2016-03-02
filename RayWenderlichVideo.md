@@ -28,5 +28,10 @@ Five ways to interact with Custom UIControl
 
 ## Drawing with Layers
 
+# 2. iOS Animations
+
+## Non Auto Layout Animations
+
+
 
 
